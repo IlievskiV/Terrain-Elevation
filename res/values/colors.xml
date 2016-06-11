@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="aliceblue">#F0F8FF</color>
+    <color name="steelblue_1">#63B8FF</color>
+    <color name="lightskyblue">#87CEFA</color>
+    <color name="lightskyblue_1">#B0E2FF</color>
+    <color name="lightskyblue_2">#A4D3EE</color>
+    <color name="skyblue_1">#87CEFF</color>
+    <color name="skyblue_2">#7EC0EE</color>
+    <color name="dogerblue_3">#1874CD</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
